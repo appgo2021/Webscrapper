@@ -1,8 +1,8 @@
 # Webscrapper
 
-`Webscrapper using JavaScript, NodeJS, Express`
+`Building RestAPI to reuse in other app using JavaScript, NodeJS, Express`
 
-This is a webscrapper which scrape out the information from uk-news and display on the screen
+This is a webscrapper which scrape out the information from uk-news and display on the screen.
 
 ## Technology used
 
@@ -10,6 +10,7 @@ This is a webscrapper which scrape out the information from uk-news and display 
 * JavaScript
 * NodeJS
 * Express
+* Rest API
 * npm package
   * cors
   * axios
